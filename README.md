@@ -3,13 +3,17 @@
 </div> 
 
 ---
+
 <div align="center">
-# Hi, I'm Bhanu Sharma
+  <h1>Hi, I'm Bhanu Sharma</h1>
 </div>
+
 ---
 
-I am a *Full Stack Developer* into the Web and App. I have done my first internship of **AI/ML & Deep Learning** into the **Microsoft & Edunet Foundation**
+I am a *Full Stack Developer* deal with Web and App. I have done my first internship of **AI/ML & Deep Learning** into the **Microsoft & Edunet Foundation**
 And now I am in **Brudite (Nirvana)**
+
+---
 
 ## Tech Stack
 - 🧑‍💻 Programming Languages:-  💻 `C` | 💻 `C++` | 🐍 `Python` | ☕ `Java`
